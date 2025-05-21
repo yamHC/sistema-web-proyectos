@@ -30,12 +30,16 @@ Este proyecto es un sistema web de gestión de proyectos desarrollado para la em
 ### Login del sistema
 ![Captura de pantalla 2025-05-19 190843](https://github.com/user-attachments/assets/40a8dae4-e692-4d70-9ae3-a29a01e84b79)
 
+### Registro del sistema
+![Captura de pantalla 2025-05-19 190755](https://github.com/user-attachments/assets/ffc78a2d-f9b3-4bdf-909c-2d25c041ea22)
+
 ### Panel del cliente
+![Captura de pantalla 2025-05-20 120428](https://github.com/user-attachments/assets/5db12140-745d-4b5f-8b45-78dff4064949)
+![Captura de pantalla 2025-05-20 120552](https://github.com/user-attachments/assets/3c1984bd-ec33-4b77-a333-791181b88f57)
 
 ### Panel del administrador
+![Captura de pantalla 2025-05-20 115511](https://github.com/user-attachments/assets/75f41bac-3ae6-4141-ac67-de32ae9f1bba)
 
-
----
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -46,8 +50,4 @@ Este proyecto es un sistema web de gestión de proyectos desarrollado para la em
 | HTML/CSS               | Estructura y estilos |
 | Bootstrap              | Estilos responsivos |
 | JavaScript             | Interactividad básica |
-
----
-
-## 📁 Estructura del proyecto
 
