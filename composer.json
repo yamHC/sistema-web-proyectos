@@ -1,0 +1,8 @@
+{
+    "name": "seguimiento/proyecto",
+    "description": "Sistema de seguimiento de proyectos",
+    "license": "proprietary",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
