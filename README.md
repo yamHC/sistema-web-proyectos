@@ -36,9 +36,12 @@ Este proyecto es un sistema web de gestión de proyectos desarrollado para la em
 ### Panel del cliente
 ![Captura de pantalla 2025-05-20 120428](https://github.com/user-attachments/assets/5db12140-745d-4b5f-8b45-78dff4064949)
 ![Captura de pantalla 2025-05-20 120552](https://github.com/user-attachments/assets/3c1984bd-ec33-4b77-a333-791181b88f57)
+![Captura de pantalla 2025-05-20 120809](https://github.com/user-attachments/assets/fe01ba89-3a8c-4974-8950-7b2071e3ef22)
 
 ### Panel del administrador
 ![Captura de pantalla 2025-05-20 115511](https://github.com/user-attachments/assets/75f41bac-3ae6-4141-ac67-de32ae9f1bba)
+![Captura de pantalla 2025-05-20 115741](https://github.com/user-attachments/assets/5e2d54c8-3c3e-404d-853b-40e388e0ba50)
+![Captura de pantalla 2025-05-20 115952](https://github.com/user-attachments/assets/64b7a3a3-daa3-4f39-a79b-7026a22c4c85)
 
 
 ## 🛠️ Tecnologías utilizadas
